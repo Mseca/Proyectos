@@ -1,2 +1,1 @@
-Este proyecto nos muestra como ingresar la formula Query mediante script (secuencia de comandos) en una hoja de calculo de Google.
-La parte fundamental de ingresar formulas mediante script, es que si por alguna circunstancia o motivo borramos accidentalmente la formula que tenemos en una celda de la hoja de calculo, esta secuencia de comando nos devuelve dicha formula sin ninguna perdida de datos.
+This project shows us how to enter the Query formula through script in a Google spreadsheet. The fundamental part of entering formulas using script is that if for some circumstance or reason we accidentally delete the formula that we have in a cell of the spreadsheet, this command sequence returns that formula without any loss of data.
